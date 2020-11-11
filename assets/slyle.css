@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+}
+
+main{
+    width: 600px;
+    background: linear-gradient(125deg, rgb(54,81,217),
+    rgb(207,56,148));
+    padding: 5px 50px;
+    font-size: 20px;
+    font-weight: 500px;
+    color: white;
+}
+
+h1 {
+    color: white;
+    text-shadow: 0 0px 10px white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+button {
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    border-radius: 8px;
+    border: 0;
+    padding: 5px 10px;
+    margin: 5px;
+    box-shadow: 0px 0px 4px 3px gray;
+}
+
+.one {
+    background-color: rgb(70, 86, 212);
+}
+
+.two {
+    background-color: rgb(240, 82, 14);
+}
